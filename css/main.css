@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+
+}
+header img{
+    border: 1px solid black;
+    min-width: 30vw;
+    max-width: 30vw;
+    min-height: 40vh;
+    max-height: 40vh;
+}
